@@ -16,7 +16,7 @@
 
 ## About Me
 
-Data Analyst with a technical background in Full-Stack Web Development. Specializing in Python and SQL to process data while leveraging experience in Django and Laravel to understand the technical architecture behind data collection.
+ Aspiring Data Analyst with a technical background in Full-Stack Web Development. Specializing in Python and SQL to process data while leveraging experience in Django and Laravel to understand the technical architecture behind data collection.
 
 Experienced in cleaning complex datasets, writing efficient SQL queries, and designing clear reports in Excel. Strong understanding of the full data lifecycle—from how information is stored in an application to how it is analyzed for business insights.
 
