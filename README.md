@@ -13,11 +13,16 @@
 
 ---
 
-##  About Me
 
-I am a dedicated student transitioning into **Data Analytics**. I enjoy uncovering patterns in data and building functional web applications. My goal is to bridge the gap between complex data and actionable business insights.
+## About Me
 
-I have expertise in building scalable, secure, and modern applications using **Python, Django, and Laravel**, and I am currently focusing on **SQL and Data Visualization**.
+Data Analyst with a technical background in Full-Stack Web Development. Specializing in Python and SQL to process data while leveraging experience in Django and Laravel to understand the technical architecture behind data collection.
+
+Experienced in cleaning complex datasets, writing efficient SQL queries, and designing clear reports in Excel. Strong understanding of the full data lifecycle—from how information is stored in an application to how it is analyzed for business insights.
+
+Focused on data integrity, clean code, and making technical findings easy to understand. Skilled at turning messy spreadsheets into clear, visual stories that help teams make informed decisions.
+
+Technical learner dedicated to applying analytical skills to real-world business challenges and building data-driven solutions with modern tools.
 
 ---
 
