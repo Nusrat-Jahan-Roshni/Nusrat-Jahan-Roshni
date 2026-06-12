@@ -1,14 +1,14 @@
 <h1 align="center">Nusrat Jahan Roshni</h1>
 
 <p align="center">
-  <b>Aspiring Data Analyst | Python Enthusiast | Problem Solver</b><br>
+  <b>📊 Aspiring Data Analyst | Python Enthusiast | Problem Solver</b><br>
   <i>Building data-driven solutions and functional web applications with modern technologies.</i>
 </p>
 
 <p align="center">
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="INSERT_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Nusrat221248"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Nusrat-Jahan-Roshni"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -33,5 +33,9 @@ I have expertise in building scalable, secure, and modern applications using **P
 
 ## 📊 GitHub Profile Summary
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nusrat221248&show_icons=true&theme=tokyonight" alt="Nusrat's stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nusrat-Jahan-Roshni&show_icons=true&theme=tokyonight" alt="Nusrat's stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusrat-Jahan-Roshni&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
