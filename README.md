@@ -13,7 +13,7 @@
 
 ---
 
-## 🔗 About Me
+##  About Me
 
 I am a dedicated student transitioning into **Data Analytics**. I enjoy uncovering patterns in data and building functional web applications. My goal is to bridge the gap between complex data and actionable business insights.
 
@@ -21,7 +21,7 @@ I have expertise in building scalable, secure, and modern applications using **P
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
