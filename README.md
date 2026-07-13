@@ -15,14 +15,12 @@
 
 
 ## About Me
+Building practical experience in Full Stack Web Development by developing web applications with PHP, Laravel, React, Flutter, MySQL, and REST APIs.
 
-Aspiring Software Engineer with a strong foundation in Full Stack Web Development, passionate about building scalable, secure, and user-friendly web applications using modern technologies.
+Continuously expanding my knowledge of software engineering concepts, including frontend development, backend development, database design, authentication, and API integration while applying clean coding practices in personal and academic projects.
 
-Experienced in developing responsive frontend interfaces and robust backend systems with PHP, Laravel, React, Flutter, MySQL, and REST APIs. Familiar with writing clean, maintainable code and implementing industry best practices.
+Passionate about creating reliable software solutions, learning modern technologies, and continuously improving my technical skills to solve real-world problems.
 
-Skilled in database design, authentication systems, API integration, and problem solving. Committed to writing efficient code, improving application performance, and delivering reliable software solutions.
-
-Technical learner dedicated to continuously expanding knowledge, contributing to meaningful projects, and applying software engineering principles to solve real-world challenges.
 
 ---
 
