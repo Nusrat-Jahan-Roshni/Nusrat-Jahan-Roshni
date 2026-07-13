@@ -1,8 +1,8 @@
 <h1 align="center">Nusrat Jahan Roshni</h1>
 
 <p align="center">
-  <b>📊 Aspiring Data Analyst | Python Enthusiast | Problem Solver</b><br>
-  <i>Building data-driven solutions and functional web applications with modern technologies.</i>
+  <b> Aspiring Software Engineer | Full Stack Web Developer | Problem Solver</b><br>
+  <i>Building scalable, user-focused web applications with modern technologies..</i>
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 ## About Me
 
- Aspiring Data Analyst with a technical background in Full-Stack Web Development. Specializing in Python and SQL to process data while leveraging experience in Django and Laravel to understand the technical architecture behind data collection.
+Aspiring Software Engineer with a strong foundation in Full Stack Web Development, passionate about building scalable, secure, and user-friendly web applications using modern technologies.
 
-Experienced in cleaning complex datasets, writing efficient SQL queries, and designing clear reports in Excel. Strong understanding of the full data lifecycle—from how information is stored in an application to how it is analyzed for business insights.
+Experienced in developing responsive frontend interfaces and robust backend systems with PHP, Laravel, React, Flutter, MySQL, and REST APIs. Familiar with writing clean, maintainable code and implementing industry best practices.
 
-Focused on data integrity, clean code, and making technical findings easy to understand. Skilled at turning messy spreadsheets into clear, visual stories that help teams make informed decisions.
+Skilled in database design, authentication systems, API integration, and problem solving. Committed to writing efficient code, improving application performance, and delivering reliable software solutions.
 
-Technical learner dedicated to applying analytical skills to real-world business challenges and building data-driven solutions with modern tools.
+Technical learner dedicated to continuously expanding knowledge, contributing to meaningful projects, and applying software engineering principles to solve real-world challenges.
 
 ---
 
