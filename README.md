@@ -1,8 +1,8 @@
 <h1 align="center">Nusrat Jahan Roshni</h1>
 
 <p align="center">
-  <b> Aspiring Software Engineer | Full Stack Web Developer | Problem Solver</b><br>
-  <i>Building scalable, user-focused web applications with modern technologies..</i>
+  <b> Aspiring Software Engineer | Passionate About Web Development | Problem Solver</b><br>
+  <i>Building modern, user-focused web applications while continuously learning software engineering principles and best practices.</i>
 </p>
 
 <p align="center">
